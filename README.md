@@ -17,7 +17,7 @@
 <h3 align="center">🔗 Connect with Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/pavani-nisansala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://fb.com/pavani-nisansala" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook(https://www.facebook.com/pavani.nisansala.1044)&logoColor=white&style=for-the-badge" alt="Facebook" /></a>
+  <a href="https://fb.com/pavani-nisansala" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook(https://www.facebook.com/pavani.nisansala.1044(https://www.facebook.com/share/1ARxTJYVSy/?mibextid=wwXIfr))&logoColor=white&style=for-the-badge" alt="Facebook" /></a>
   <a href="https://instagram.com/pavani_nisansala" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
 </p>
 
